@@ -26,5 +26,5 @@ For users that need to keep track of a lot of information, it's easy to forget o
 
 ## Repository
 - [Heroku App](https://intense-taiga-05635.herokuapp.com/notes)
-- [Project Repo]()
+- [Project Repo](https://github.com/niyati7892/Note-Treacker)
 - [GitHub]()
