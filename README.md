@@ -1,8 +1,6 @@
-# Note-Treacker
-live heroku link https://intense-taiga-05635.herokuapp.com/notes
 # Unit 11 Express Homework: Note Taker
 
-![GitHub license]()
+![GitHub license](https://img.shields.io/badge/Made%20by-%40niyati7892-orange)
 ![GitHub license]()
 
 
@@ -27,4 +25,4 @@ For users that need to keep track of a lot of information, it's easy to forget o
 ## Repository
 - [Heroku App](https://intense-taiga-05635.herokuapp.com/notes)
 - [Project Repo](https://github.com/niyati7892/Note-Treacker)
-- [GitHub]()
+
