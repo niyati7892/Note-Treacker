@@ -1,7 +1,7 @@
 # Unit 11 Express Homework: Note Taker
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40niyati7892-orange)
-![GitHub license]()
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 ## Description
